@@ -1,0 +1,9 @@
+[submodule "lib/pctl"]
+	path = lib/pctl
+	url = git@github.com:deepsea-inria/pctl.git
+[submodule "lib/cmdline"]
+	path = lib/cmdline
+	url = git@github.com:deepsea-inria/cmdline.git
+[submodule "lib/chunkedseq"]
+	path = lib/chunkedseq
+	url = git@github.com:deepsea-inria/chunkedseq.git

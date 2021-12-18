@@ -5,7 +5,7 @@
 
 namespace cube_graph {
 
-constexpr int64_t CUBE_LENGTH = 100;
+constexpr int64_t CUBE_LENGTH = 400;
 constexpr size_t VERTICES_NUM = CUBE_LENGTH * CUBE_LENGTH * CUBE_LENGTH;
 
 inline int64_t get_vertex_num(int64_t x, int64_t y, int64_t z) {
